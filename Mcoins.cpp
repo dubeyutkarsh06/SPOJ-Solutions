@@ -31,7 +31,8 @@ int main()
     {
         if(arr[arr1[i]]==1)
             cout<<"A";
-        else
+        //o like it the way you
+  
             cout<<"B";
     }
     return(0);

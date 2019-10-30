@@ -4,3 +4,4 @@ for i in range(0,t):
     b = int(input())
     print((a+b) >> 1)
     print((a-b) >> 1)
+print("Hello World")

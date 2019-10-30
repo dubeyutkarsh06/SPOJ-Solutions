@@ -1,5 +1,5 @@
 #include<bits/stdc++.h>
-#define int long int
+#define int long long int
 #define str string
 #define pb push_back
 #define go_baby_go ios_base::sync_with_stdio(false);cin.tie(false);cout.tie(false);

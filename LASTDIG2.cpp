@@ -1,5 +1,5 @@
 #include<bits/stdc++.h>
-#define int long int
+#define ll long long int
 #define pb push_back
 #define str string
 #define ios ios_base::sync_with_stdio(0);
